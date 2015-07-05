@@ -17,4 +17,4 @@ This program is desiged to help nurture the development of our local software de
 
 ![Brace Yourselves](https://imgflip.com/i/ntbsy)
 
-But for reals, this profession in general can require long hours of staring at your computer screen.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete.  
+But for reals, this profession in general can require long hours of staring at your computer screen.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete. 
