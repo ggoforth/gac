@@ -30,7 +30,9 @@ We may be trying someting new, the details of which are still up in the air.  We
 
 This profession in general can require long hours.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete.  It will often be the case that you'll need to choose between turning in early and meeting a deadline.  
 
+
 ![Brace Yourselves](https://i.imgflip.com/ntbsy.jpg)
+
 
 **Projects**
 
@@ -39,6 +41,10 @@ Project's will vary, as will the clients and the technology we use to solve prob
 While you will have a cohort director to oversee your projects, one thing should be very clear.  __**You are responsible for your projects.  You are resonsible for understanding the project needs, identifying area's of uncertainty to discuss with your director, and commnicating with your clients on a regular interval.**__  We want to give you 3-5 years worth of "freelance" experience over the next 6 months, and to do that we need you 100% invested in your given projects.
 
 **MEAN Stack**
+
+
+![MEAN Stack](http://blog.langoor.mobi/wp-content/uploads/2013/07/meanstack-624x250.jpg)
+
 
 We want cohort participants (cohorters) to be able to focus their efforts on one tech stack.  We would rather have you really good at one thing, than sorta good at 3.  With that in mind we're going to focus on MEAN stack this round.  This means we're looking at a 100% javascript application environment.  This is actually really fun to work with, and is nice not having to switch back and forth between languages when writing more complicated applications.
 
