@@ -46,7 +46,25 @@ We want cohort participants (cohorters) to be able to focus their efforts on one
     * Angular (The application frontend)
     * Node (What the application backend runs on)
 * Full javascript environment
-* Utilizing modern build tools (gulp, less / sass, 
+* Utilizing modern build tools (gulp, less / sass)
+
+**Tools of the Trade**
+
+Before we get started with JS 101, lets talk about our development environments.  Who's on windows?  Who's on Mac?  Anyone on linux?  The development environments for every system is different, but the vast majority of servers you'll end up working on will be Linux based.  The terminal will become very familar to everyone over the next 6 months.  Given this, I want everyone to identify the terminal application you'll be using.  
+
+* OSX / iTerm
+* Linux / Built in shell is totally suitable
+* Windows / git bash - cygwin - cmder
+
+The built in windows terminal is insufficient for our needs so you'll need to find an alternative.  Git bash will come when you install git on your machine.  Many of the previous cohort memebers that developed on windows liked [cmder](http://gooseberrycreative.com/cmder/).  I've not used cygwin, but it's another option.
+
+The IDE (Integrated Development Environment) / text editor you choose is up to you.  I have very specific things that I like in my IDE's so most everything I demo for you will be done in those editors.  I typically use:
+
+* [Webstorm](https://www.jetbrains.com/webstorm/) - A fantastic, super feature rich IDE.  This is my daily driver for project work.
+* [vim](http://www.vim.org/) - A terminal text editor. Great for quick edits from a terminal (or when logged into a remote web server).
+* [iterm 2](https://www.iterm2.com/) - A great terminal, gets daily use.  Used for running build tools (gulp / grunt), managing files, etc...
+* [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - Invaluable tool for testing application routes / endpoints.
+* [Chrome](http://www.google.com/chrome/) - And more specifically the chrome developer tools.  Javascript can sometimes be tricky to debug, and the developer tools help greatly to identify issues.
 
 
 
