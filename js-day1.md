@@ -70,3 +70,5 @@ And then create `myjsfile.js` and put it in the same folder as your html file.
 ```javascript
 alert('This is from ann external script tag!');
 ```
+
+This is usually the best way of adding javascript to your web pages, though sometimes it's unavoidable to use the inline methods described above.
