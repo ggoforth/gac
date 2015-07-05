@@ -32,9 +32,21 @@ But for reals, this profession in general can require long hours of staring at y
 
 **Projects**
 
-Project's will vary, as will the clients and the technology we use to solve problems.  This round, we've selected the MEAN Stack as our primary weapon of choice, but we'll likely utilize other tech (PHP, vagrant / virtual box, WordPress, etc...) to tackle specific parts of a project.  For instance, many web applications we would be building also requrie a front end website (for marketing purposes) so we'll be working to put those together too.  
+Project's will vary, as will the clients and the technology we use to solve problems.  This round, we've selected the MEAN Stack as our primary weapon of choice, but we'll likely utilize other tech (PHP, vagrant / virtual box, WordPress, etc...) to tackle specific parts of a project.  For instance, many web applications we would be building also require a front end website (for marketing purposes) so we'll be working to put those together too.  
 
+While you will have a cohort director to oversee your projects, one thing should be very clear.  __**You are responsible for your projects.  You are resonsible for understanding the project needs, identifying area's of uncertainty to discuss with your director, and commnicating with your clients on a regular interval.**__  We want to give you 3-5 years worth of "freelance" experience over the next 6 months, and to do that we need you 100% invested in your given projects.
 
+**MEAN Stack**
+
+We want cohort participants (cohorters) to be able to focus their efforts on one tech stack.  We would rather have you really good at one thing, than sorta good at 3.  With that in mind we're going to focus on MEAN stack this round.  This means we're looking at a 100% javascript application environment.  This is actually really fun to work with, and is nice not having to switch back and forth between languages when writing more complicated applications.
+
+* MEAN
+    * Mongo (The database)
+    * Express (The application backend)
+    * Angular (The application frontend)
+    * Node (What the application backend runs on)
+* Full javascript environment
+* Utilizing modern build tools (gulp, less / sass, 
 
 
 
