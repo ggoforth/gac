@@ -69,6 +69,7 @@ The IDE (Integrated Development Environment) / text editor you choose is up to y
 * [Webstorm](https://www.jetbrains.com/webstorm/) - A fantastic, super feature rich IDE.  This is my daily driver for project work.
 * [vim](http://www.vim.org/) - A terminal text editor. Great for quick edits from a terminal (or when logged into a remote web server).
 * [iterm 2](https://www.iterm2.com/) - A great terminal, gets daily use.  Used for running build tools (gulp / grunt), managing files, etc...
+* [jsbin](http://jsbin.com) - Defacto REPL for testing js / html / css ideas.
 * [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) - Invaluable tool for testing application routes / endpoints.
 * [Chrome](http://www.google.com/chrome/) - And more specifically the chrome developer tools.  Javascript can sometimes be tricky to debug, and the developer tools help greatly to identify issues.
 
@@ -85,7 +86,9 @@ Note: The built in windows terminal is insufficient for our needs so you'll need
 
 We'll be using git, with github.com being the central home for our repositories.  We'll focus on a "gitflow" style of development.  We'll talk more about git flow soon, but for now, [go read this](https://www.atlassian.com/git/tutorials/comparing-workflows).
 
+**Q&A**
 
+What questions do you have?
 
 
 
