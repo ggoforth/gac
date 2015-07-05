@@ -45,7 +45,7 @@ This is one of the most basic ways of injecting javascript into the DOM.  Embedd
 <body>
 	<h1>Hello World</h1>
 	<script>
-	    alert('Hello world!);
+	    alert('Hello world!');
 	</script>
 </body>
 </html>
