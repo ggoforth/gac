@@ -30,6 +30,10 @@ We may be trying someting new, the details of which are still up in the air.  We
 
 But for reals, this profession in general can require long hours of staring at your computer screen.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete.  It will often be the case that you'll need to choose between turning in early and meeting a deadline.  
 
+**Projects**
+
+Project's will vary, as will the clients and the technology we use to solve problems.  This round, we've selected the MEAN Stack as our primary weapon of choice, but we'll likely utilize other tech (PHP, vagrant / virtual box, WordPress, etc...) to tackle specific parts of a project.  For instance, many web applications we would be building also requrie a front end website (for marketing purposes) so we'll be working to put those together too.  
+
 
 
 
