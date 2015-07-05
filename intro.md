@@ -26,9 +26,11 @@ We may be trying someting new, the details of which are still up in the air.  We
 
 **Work Hours**
 
-![Brace Yourselves](https://i.imgflip.com/ntbsy.jpg)
+12am / 12am Mon-Sun
 
-But for reals, this profession in general can require long hours of staring at your computer screen.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete.  It will often be the case that you'll need to choose between turning in early and meeting a deadline.  
+This profession in general can require long hours of staring at your computer screen.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete.  It will often be the case that you'll need to choose between turning in early and meeting a deadline.  
+
+![Brace Yourselves](https://i.imgflip.com/ntbsy.jpg)
 
 **Projects**
 
