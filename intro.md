@@ -42,9 +42,7 @@ While you will have a cohort director to oversee your projects, one thing should
 
 **MEAN Stack**
 
-
 ![MEAN Stack](http://blog.langoor.mobi/wp-content/uploads/2013/07/meanstack-624x250.jpg)
-
 
 We want cohort participants (cohorters) to be able to focus their efforts on one tech stack.  We would rather have you really good at one thing, than sorta good at 3.  With that in mind we're going to focus on MEAN stack this round.  This means we're looking at a 100% javascript application environment.  This is actually really fun to work with, and is nice not having to switch back and forth between languages when writing more complicated applications.
 
