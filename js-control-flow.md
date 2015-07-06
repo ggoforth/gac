@@ -244,7 +244,7 @@ var age = 19;
 if (age < 21) {
     alert('Must be 21 to enter.');
 } else if (age > 25) {
-    alert('You're far to old to be here.');
+    alert('You\'re far to old to be here.');
 } else {
     alert('Welcome to da club');
 }
@@ -340,7 +340,17 @@ var hasPets = dogs ? true : cats ? true : fish ? true : false; //wat?
 Just because you can do something, doesn't mean you should, just because you
 have a hammer, not everything is a nail.
 
+**Try it yourself**
 
+Write a script and accompanying HTML file that will:
+
+1. Prompt for a number value (provide a default of 10)
+2. Prompt for another number value (provide a default of 10)
+3. Convert the promped values into integers.
+4. Make sure that the input from steps 1 and 2 are numbers.
+5. If they are numbers, add the numbers together and log the value to the console.
+6. If either of the prompted values are not numbers, alert someting to the user that
+  they must input nubmers only.
 
 
 
