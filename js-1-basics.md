@@ -201,7 +201,7 @@ var person = {
     firstName: 'greg',
     lastName: 'goforth',
     worksAt: 'Bitwise Industries',
-    employeeNumber: 9
+    employeeNumber: 9,
     isCEO: false
 };
 
