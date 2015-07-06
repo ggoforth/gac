@@ -34,8 +34,12 @@ We may be trying someting new, the details of which are still up in the air.  We
 
 12am / 12am Mon-Sun
 
-This profession in general can require long hours.  If this is something that doesn't work for you, then we might have a problem.  Our general work hours are 9-5, but that doesn't mean that the work day ends there if you have a deadline "tomorrow" and still have 10 hours of work to comlete.  It will often be the case that you'll need to choose between turning in early and meeting a deadline.  
-
+I kid, but not really.  Software development is typically not a carear path one
+chooses if they are interested in a simple 9-5.  The way you win more projects /
+clients is by ensuring that you meet deadlines and deliver a quality product.
+This often means choosing to stay up into the wee hours of the morning to make
+sure your projects get done.  This was certainly true for me, and of most
+developers that I know.  This is all to say...
 
 ![Brace Yourselves](https://i.imgflip.com/ntbsy.jpg)
 

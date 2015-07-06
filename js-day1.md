@@ -291,6 +291,16 @@ var answer = prompt(promptString); //enter your name
 console.log(answer); //will be your name entered in the previous step 
 ```
 
+**Try for yourself**
+
+Using [jsbin](http://jsbin.com), create a javascript program that will:
+
+* Ask the user their name
+* Ask the user their email
+* Ask the user their favorite movie
+* Assign all the values prompted for into an object
+* Log the object to the console
+
 
 
 
