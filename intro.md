@@ -25,16 +25,6 @@ This program is desiged to help nurture the development of our local software de
 * We expect your best effort, always.
 * All cohorters will be expected to co-teach some geekwise classes.  This typically looks like an alternating schedule of on for 6 weeks, off for 6 weeks.  More on this to follow.
 
-**Something New**
-
-We may be trying someting new, the details of which are still up in the air.  We are looking to expand cohort to include more than 8 people.  In order to do so we must somehow figure out how to do that, and the following is one idea being kicked around:
-
-* Take up to 16 individuals into cohort.
-    * 8 for cohort proper
-    * 8 for cohort plus
-* Cohort proper operates just as the previous one did.  A rate of $2000 a month for the next six months.
-* Cohort plus is a eat what you kill type of program.  The more work you complete, the more projects you finish, the more you can make.  There is no set limit as to how much you can make in this program.  You will still have the guidance of a cohort director and access to all the things that a normal cohort member would have.  You will be paid half up front for every project, and half upon completion. 
-
 **Work Hours**
 
 12am / 12am Mon-Sun
