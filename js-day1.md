@@ -119,6 +119,19 @@ I'm a multi line comment.
 */
 ```
 
+**console.log(...)**
+
+Before we get to much further, you should aquaint yourself with the
+`console.log` function.  It's purpose is to log things to the developer console
+that you're using.  Be it Chrome dev tools, Firebug for Firefox, etc...  You can
+put a `console.log(...)` anywhere in your code and have it log to the console so
+you can see what is happening in your code.  Useage is as follows:
+
+```
+var name = 'Greg';
+console.log(name);
+```
+
 **Variables & Datatypes**
 
 Variables are one of the essential building blocks of just about any programming
