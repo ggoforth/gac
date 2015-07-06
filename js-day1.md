@@ -300,37 +300,3 @@ Using [jsbin](http://jsbin.com), create a javascript program that will:
 * Ask the user their favorite movie
 * Assign all the values prompted for into an object
 * Log the object to the console
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

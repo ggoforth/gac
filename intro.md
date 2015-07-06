@@ -93,14 +93,3 @@ We'll be using git, with github.com being the central home for our repositories.
 **Q&A**
 
 What questions do you have?
-
-
-
-
-
-
-
-
-
-
-
