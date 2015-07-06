@@ -1,5 +1,10 @@
 ###Geekwise Academy Cohort #2
 
+####Welcome!
+
+![Beep
+Boop](https://www.pytexas.org/static/uploads/blog_images/2015-06/cat-programmer.jpg)
+
 **Intros**
 
 Lets get to know each other.
