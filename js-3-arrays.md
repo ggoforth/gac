@@ -224,23 +224,6 @@ while (a < 10) {
 }
 ```
 
-**do while(...)**
-
-The `do / while` loop is less commonly used however it's a useful tool to have
-once you understand how it's used.
-
-The do / while loop will always run at least once, then it evaluates it's
-condition. If the condition is still true, it will continue the loop
-
-```javascript
-var i = 1;
-
-do {
-    console.log(i);
-    i++;
-} while (i < 10);
-```
-
 **for(...)**
 
 With for loops we need to set up 3 things, our starting point, our condition,
@@ -261,6 +244,23 @@ Javascript provides two ways of controlling the flow of a loop, the `continue` a
 `continue` will immediately reset the loop to the next iteration, and continue on
 with the loop. It's basically just saying, disregard the rest of this loop and
 go to the next loop.
+
+**do while(...)**
+
+The `do / while` loop is less commonly used however it's a useful tool to have
+once you understand how it's used.
+
+The do / while loop will always run at least once, then it evaluates it's
+condition. If the condition is still true, it will continue the loop
+
+```javascript
+var i = 1;
+
+do {
+    console.log(i);
+    i++;
+} while (i < 10);
+```
 
 **Try it yourself**
 
