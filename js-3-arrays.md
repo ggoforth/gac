@@ -194,7 +194,7 @@ console.log(fruits);
 ```
 
 There are a lot more things we can do with arrays, for more info, [check out the
-MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array).
 
 
 
