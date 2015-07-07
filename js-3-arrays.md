@@ -7,8 +7,8 @@ we concat __strings__ together using the `+` operator.
 
 ```javascript
 var password = 'secret',
-  salt = 'abc1234,
-  saltedPassword = salt + pass;
+  salt = 'abc1234',
+  saltedPassword = salt + password;
 
 console.log(saltedPassword);
 ```
