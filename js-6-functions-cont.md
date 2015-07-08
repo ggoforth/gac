@@ -125,64 +125,24 @@ one that returns a simple object literal) to a constructor function.
 * The status function should look to see if that movie is checked in our out, and
     return a string stating it's status
 * Create a loop that will run 5 times
-* Inside the loop prompt the user for a movie title they would like to checkout /
+* Inside the loop prompt the user for a movie title they would like to checkout 
     checkin. (remember, you must spell it the same as in your array)
 * Find the movie object with that title and call the the appropriate function.
 * Finally log out the movie array and lets look at the status of each of those.
 
+**Try for yourself**
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* Create a Bank constructor function
+* The constructor function should have a balance property equal to 100
+* Add a credit function to Banks prototype that will add to balance
+* Add a debit function to the Banks prototype that will subtract from the balance
+* Create an instance of the bank
+* Create a loop that will run three times and prompt the user for a number input
+* Parse the values into numbers
+* Call the bank.credit(num) function and add that amount to your balance
+* Create a new loop that will run twice
+* Inside this loop prompt for a number and parse the number
+* Run these two numbers with the bank.debit(num) to subtract from the balance
+* Finally, log the ending balance after the three credits and two debits. For
+    instance, if you start with 100, credit 10 three times, we get 130, then debit
+    10 twice, we get 110.
